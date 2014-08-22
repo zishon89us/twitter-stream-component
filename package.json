@@ -1,0 +1,28 @@
+{
+    "name": "twitter-stream-component",
+    "version": "0.0.1",
+    "author": "Zeeshan Hassan Memon",
+    "description": "node component for twitter streaming",
+    "keywords": [
+        "twitter",
+        "stream",
+        "twitter-api",
+        "websocket",
+        "events",
+        "socket"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zishon89us/twitter-stream-component"
+    },
+    "readmeFilename": "Readme.md",
+    "main": "server.js",
+    "license" : "BSD-3-Clause",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ntwitter": "^0.5.0",
+        "socket.io": "1.0.6"
+    }
+}
