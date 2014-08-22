@@ -14,9 +14,13 @@ How to Run ?
     <li>http://localhost:3000 ( Stream Client)</li>
  <ul>
 
+<div>
 
-<a href="https://www.linkedin.com/pub/zeeshan-hassan-memon/4b/631/4a3">
-Zeeshan Hassan
-</a>
-
-Happy Coding!
+<div style="margin-top:35px;">
+ <a href="https://www.linkedin.com/pub/zeeshan-hassan-memon/4b/631/4a3">
+  Zeeshan Hassan
+ </a>
+ <div>
+  Happy Coding!
+ </div>
+</div>
