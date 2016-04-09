@@ -18,10 +18,9 @@ How to Run ?
 
 
 
-####My LinkedIn
+My LinkedIn
 
  <a href="https://www.linkedin.com/pub/zeeshan-hassan-memon/4b/631/4a3">
-  Zeeshan Hassan
+ Zeeshan Hassan
  </a>
- 
-  Happy Coding!
+ Happy Coding!
